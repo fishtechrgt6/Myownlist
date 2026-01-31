@@ -1,0 +1,19 @@
+{
+    "id": 38445559,
+    "name": "Thermodynamix",
+    "author": "Flash",
+    "creators": ["Flash"],
+    "verifier": "GMDGNIDA",
+    "verification": "https://youtu.be/i9n-gVSEyfE?si=cNq7jxymx-HpOiXH",
+    "percentToQualify": "77",
+    "password": "Free to copy",
+    "records": [
+        {
+            "user":  "QCold",
+            "link":  "https://youtu.be/i9n-gVSEyfE?si=cNq7jxymx-HpOiXH",
+            "percent":  100,
+            "hz":  240
+        }
+        
+    ]
+}
