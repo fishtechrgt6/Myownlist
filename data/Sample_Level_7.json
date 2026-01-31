@@ -1,0 +1,24 @@
+{
+    "id": 44062068,
+    "name": "Future Funk",
+    "author": "Huysosal",
+    "creators": ["Jonathangd"],
+    "verifier": "pidrilas",
+    "verification": "https://youtu.be/LUORMA2NvmM?si=SG0_4onqJzd5uDtD",
+    "percentToQualify": "62",
+    "password": "Free to copy",
+    "records": [
+        {
+            "user":  "GMDGNIDA",
+            "link":  "https://youtu.be/LUORMA2NvmM?si=SG0_4onqJzd5uDtD",
+            "percent":  100,
+            "hz":  240
+        },
+        {
+            "user":  "QCold",
+            "link":  "https://youtu.be/LUORMA2NvmM?si=SG0_4onqJzd5uDtD",
+            "percent":  100,
+            "hz":  240
+        }
+    ]
+}
