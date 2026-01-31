@@ -1,0 +1,24 @@
+{
+    "id": 4284013,
+    "name": "Nine Circles",
+    "author": "Otbros",
+    "creators": ["Zobros"],
+    "verifier": "GMDGNIDA",
+    "verification": "https://youtu.be/dOdPoU1ncOc?si=V-G7FUjqXzVV3YZj",
+    "percentToQualify": "41",
+    "password": "Free to copy",
+    "records": [
+        {
+            "user":  "QCold",
+            "link":  "https://youtu.be/dOdPoU1ncOc?si=V-G7FUjqXzVV3YZj",
+            "percent":  100,
+            "hz":  240
+        },
+        {
+            "user":  "Armnmpsss",
+            "link":  "https://youtu.be/dOdPoU1ncOc?si=V-G7FUjqXzVV3YZj",
+            "percent":  100,
+            "hz":  240
+        }
+    ]
+}
