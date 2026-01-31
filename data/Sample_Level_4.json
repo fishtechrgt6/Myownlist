@@ -1,0 +1,24 @@
+{
+    "id": 40945673,
+    "name": "Crazy",
+    "author": "Davjt",
+    "creators": ["Davjt"],
+    "verifier": "GMDGNIDA",
+    "verification": "https://youtu.be/g_MP6BENHEs?si=vV2m65dlSRi7yTYN",
+    "percentToQualify": "60",
+    "password": "Free to copy",
+    "records": [
+        {
+            "user":  "Sinshlyuxi",
+            "link":  "https://youtu.be/g_MP6BENHEs?si=vV2m65dlSRi7yTYN",
+            "percent":  100,
+            "hz":  240
+        },
+        {
+            "user":  "Zoykisss",
+            "link":  "https://youtu.be/g_MP6BENHEs?si=vV2m65dlSRi7yTYN",
+            "percent":  100,
+            "hz":  240
+        }
+    ]
+}
